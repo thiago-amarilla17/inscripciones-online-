@@ -6,7 +6,7 @@ Los datos ingresados se envían e integran directamente con una planilla de **Go
 
 Demostración en Vivo
 
-* 🌐 **Página Web:** [https://TU_USUARIO.github.io/inscripciones-club/](file:///C:/Users/Usuario/Desktop/todo%20en%20uno.html)
+
 * 📊 **Base de Datos en vivo:** [Ver planilla en Google Sheets(https://docs.google.com/spreadsheets/d/1bJuzlI_7Hn_mpKNByl7f7QwCctsklWoEgOfo97htx4A/edit?gid=0#gid=0)
 
 ---
